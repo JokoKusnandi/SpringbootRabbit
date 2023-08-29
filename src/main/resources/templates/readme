@@ -1,0 +1,9 @@
+Sukses Running
+
+STEP 1 – Download and Install Erlang
+STEP 2 – Download and Install RabbitMQ Server
+STEP 3 – Enable RabbitMQ Management from CMD
+	-open Command Prompt then go to -> cd C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.15\sbin
+	-rabbitmq-plugins.bat enable rabbitmq_management
+STEP 4 – Browse and login to RabbitMQ server
+	open this URL in the browser http://localhost:15672/#/ and login with default username and password “guest”
